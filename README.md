@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm ken!
 
-I am an undergraduate student, currently enrolled at STEI ITB. Fueled by my curiosity, I am highly motivated to learn new things, especially in computers, which is why I major in Informatics (Computer Science). I am exploring a lot of things, such as Web development, Machine learning, Data science, and Encryption.
+I am an undergraduate student, currently enrolled at STEI ITB's Informatics Engineering. I thrive when I am challenged to be solve something creatively and fueled by my curiosity, I am highly motivated to learn new things. I am interested in algorithms, artificial intelligence, system designing, cryptography, and blockchain programming.
 
 <!--
 ### Programming Language
