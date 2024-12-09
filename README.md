@@ -4,6 +4,10 @@ I am a final year undergraduate student, currently enrolled at Bandung Institute
 
 Some of my writings can be found on my [Medium](https://medium.com/@KenEzekiel) or in [HMIF's Missing Semester Project](missing-semester.hmif.dev).
 
+Some highlights on my projects:
+- [Web3 Healthcare Insurance System](https://github.com/kenezekiel/Blockchain-Healthcare-System)
+- 32-bit UNIX-based Operating System
+
 <!--
 ### Programming Language
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
