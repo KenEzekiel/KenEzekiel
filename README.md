@@ -2,6 +2,8 @@
 
 I am a final year undergraduate student, currently enrolled at Bandung Institute of Technology's Informatics Engineering. I am the chairman of my student body, HMIF ITB, and also the CEO of Datare Innovation Solutions. I thrive on solving real world problems with my creative and critical mindset, with curiosity as a fuel for my learning. My main interest is in Blockchain technologies, as my Final Project is about a Smart Contract Discovery Engine, written in LaTeX. Other than that, I am also keen on Artificial Intelligence, Distributed Systems, Cryptography, and Cybersecurity.
 
+I am currently working on [Sectors.app](https://sectors.app) with Supertype as a software engineer, and I am thriving with Supertype's culture for its organization, such as being proactive, having a high sense of ownership, and making sure every member is synced with the rest of the team.
+
 Some of my writings can be found on my [Medium](https://medium.com/@KenEzekiel) or in [HMIF's Missing Semester Project](missing-semester.hmif.dev).
 
 Some highlights on my projects:
