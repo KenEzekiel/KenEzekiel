@@ -1,6 +1,8 @@
 ### 👋 Hi! I'm ken!
 
-I am an undergraduate student, currently enrolled at STEI ITB's Informatics Engineering. I thrive when I am challenged to be solve something creatively and fueled by my curiosity, I am highly motivated to learn new things. I am interested in algorithms, artificial intelligence, system designing, cryptography, and blockchain programming.
+I am a final year undergraduate student, currently enrolled at Bandung Institute of Technology's Informatics Engineering. I am the chairman of my student body, HMIF ITB, and also the CEO of Datare Innovation Solutions. I thrive on solving real world problems with my creative and critical mindset, with curiosity as a fuel for my learning. My main interest is in Blockchain technologies, as my Final Project is about a Smart Contract Discovery Engine, written in LaTeX. Other than that, I am also keen on Artificial Intelligence, Distributed Systems, Cryptography, and Cybersecurity.
+
+Some of my writings can be found on my [Medium](https://medium.com/@KenEzekiel) or in [HMIF's Missing Semester Project](missing-semester.hmif.dev).
 
 <!--
 ### Programming Language
