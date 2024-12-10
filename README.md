@@ -8,7 +8,7 @@ Some of my writings can be found on my [Medium](https://medium.com/@KenEzekiel) 
 
 Some highlights on my projects:
 - [Web3 Healthcare Insurance System](https://github.com/kenezekiel/Blockchain-Healthcare-System)
-- 32-bit UNIX-based Operating System
+- [32-bit UNIX-based Operating System](https://github.com/kenezekiel/operating-system-unix)
 
 <!--
 ### Programming Language
