@@ -4,7 +4,7 @@ I am a final year undergraduate student, currently enrolled at Bandung Institute
 
 I am currently working on [Sectors.app](https://sectors.app) with Supertype as a software engineer, and I am thriving with Supertype's culture for its organization, such as being proactive, having a high sense of ownership, and making sure every member is synced with the rest of the team.
 
-Some of my writings can be found on my [Medium](https://medium.com/@KenEzekiel) or in [HMIF's Missing Semester Project](missing-semester.hmif.dev).
+Some of my writings can be found on my [Medium](https://medium.com/@KenEzekiel) or in [HMIF's Missing Semester Project](https://missing-semester.hmif.dev).
 
 Some highlights on my projects:
 - [Web3 Healthcare Insurance System](https://github.com/kenezekiel/Blockchain-Healthcare-System)
