@@ -10,6 +10,15 @@ Some highlights on my projects:
 - [Web3 Healthcare Insurance System](https://github.com/kenezekiel/Blockchain-Healthcare-System)
 - [32-bit UNIX-based Operating System](https://github.com/kenezekiel/operating-system-unix)
 
+### 📊 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenezekiel&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenezekiel&layout=compact&theme=radical)
+
+---
+
+### 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=kenezekiel&theme=radical&margin-w=5&margin-h=5)
+
 <!--
 ### Programming Language
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
